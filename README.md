@@ -25,6 +25,7 @@ This Power BI project visualizes company sales performance across different regi
 - Demonstrated Power BI dashboard design and storytelling skills  
 
 ---
+![Dashboard Preview](https://github.com/yourusername/yourrepo/blob/main/dashboard_preview.png)
 
 
 
