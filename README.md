@@ -26,8 +26,6 @@ This Power BI project visualizes company sales performance across different regi
 
 ---
 
-## 📊 Dashboard Preview
-![Dashboard Screenshot](dashboard_preview.png)
 
 
 🔗 **Project Repository:** [Sales-Performance-Dashboard-Power-BI](https://github.com/shrushti-gif/Sales-Performance-Dashboard-Power-BI)
